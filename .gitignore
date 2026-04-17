@@ -40,7 +40,7 @@ diagnostics/
 # Editor / tool temp files
 *.tmp
 .vscode/
-.claude/settings.local.json
+.claude/
 .paperclip-local/
 /.idea/
 /.agents/
@@ -54,4 +54,3 @@ tests/e2e/playwright-report/
 tests/release-smoke/test-results/
 tests/release-smoke/playwright-report/
 .superset/
-.claude/worktrees/
